@@ -1,4 +1,4 @@
-# Marchine Learning
+# Machine Learning
  
 ## 
 

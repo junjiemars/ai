@@ -1,4 +1,4 @@
-# Marchine Learning via Python
+# Machine Learning via Python
 
 ## Godent
 * install
@@ -15,3 +15,4 @@ python check-env.py
 
 ## References
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+* [Machine Learning Theory - Part 1: Introduction](https://mostafa-samir.github.io/ml-theory-pt1/)
