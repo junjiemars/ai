@@ -19,7 +19,11 @@ code
 ```
 * another way: in _launch.json_,  ```"pythonPath": "${workspaceRoot}/<.venv-dir>/bin/python"```
 
-
+__Packages__
+* __numpy__
+* __pandas__
+* __matplotlib__
+* __sklearn__
 
 ## References
 
